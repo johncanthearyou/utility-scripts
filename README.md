@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Make sure to add the root of this repository to your PATH before attempting to use these commands
+- Make sure to add the root of this repository to your PATH before attempting to use these commands
 
 ## Planned Next Steps
 
